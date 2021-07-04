@@ -4,6 +4,14 @@ Simple test project
 
 A Rest API that says 'Hello world'
 
+## Try the code on gitpod
+
+To try on gitpod, 
+paste the following in your web browser URL:
+```shell
+http://gitpod.io/#https://github.com/smoulem/springboot-hello-rest
+```
+
 ## Run the App:
 ```shell
 ./gradlew bootRun
